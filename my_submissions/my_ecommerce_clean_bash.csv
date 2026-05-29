@@ -1,0 +1,4 @@
+txn_id,user_id,txn_date,amount,txn_status
+101,1,2026-05-01,150.0,success
+103,3,invalid_date,200.0,pending
+105,4,2026-05-04,450.50,success
